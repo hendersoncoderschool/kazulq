@@ -26,7 +26,7 @@ export default function App() {
           <br></br>
             The Terminator
           </p>
-          <img src= "Terminator.jpg" width = "100%"></img >
+          <img src= "app/Terminator.jpg" width = "100%"></img>
         </div>
         
       </div>
